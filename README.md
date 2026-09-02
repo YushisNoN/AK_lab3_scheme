@@ -1,3 +1,3 @@
 # Схема: ACC32-Harv[-microcode]
-![](acc32-hard-microcode.png)
+![v2](acc32-hard-microcode.png?v=2)
 ![](acc32-hard-microcode2.png)
